@@ -2,7 +2,7 @@ StaatApp_for_Logistic v1.0.0
 © 2022 crow
 
 ■ 実行手順
-https://corvus-window.com/?p=1568
+https://corvus-window.com/app_logistic-regression/
 
 ■ 問い合わせフォーム
 https://corvus-window.com/inquiry/
